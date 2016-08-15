@@ -1,0 +1,23 @@
+{
+  "name": "gulp-gather-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/lellimecnar/gulp-gather-dependencies",
+  "repository": "git://github.com/lellimecnar/gulp-gather-dependencies.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "dependencies"
+  ],
+  "author": "Lance Miller <npm@lance.pub>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.15.0",
+    "through2": "^2.0.1"
+  }
+}
